@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/All-Learnings/All_the_Learnings/MLflow/mlruns/378138149278957115/ed57739fe9544415af7bd96b26d2ebfa/artifacts
+end_time: 1710329586991
+entry_point_name: ''
+experiment_id: '378138149278957115'
+lifecycle_stage: active
+run_id: ed57739fe9544415af7bd96b26d2ebfa
+run_name: Example Demo
+run_uuid: ed57739fe9544415af7bd96b26d2ebfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710329586937
+status: 3
+tags: []
+user_id: Sudheer Pulapa
